@@ -1,1 +1,4 @@
 # odin-recipes
+This is my first project I created via The Odin Project curriculum. This project is a basic recipe website that hosts quite a few of my favorite seafood inspired recipes.
+
+While creating this project, I've practiced navigating and updating my file system using the bash command line. I've grown familiar with the basic Git workflow. In regards to HTML foundations, throughout the project there are many of these elements and attributes that structured and solidified my uderstanding of what I've learned: anchor elements, HTML boilerplates, paragraph elements, attributes, image elements, and comments that help my code become easier to read.
