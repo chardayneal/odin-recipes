@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(215, 231, 234);
+    font: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px;
+}
+
+body img {
+    height: auto;
+    width: 100;
+
+}
+
+#title {
+    font-weight: 10000;
+}
+
+#subtitle {
+    font-weight: 750;
+    font-style: oblique;
+}
+
+.courses {
+    font-weight: 500;
+}
+
+h2 {
+    text-align: center;
+}
